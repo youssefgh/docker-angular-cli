@@ -5,4 +5,4 @@ MAINTAINER Youssef GHOUBACH <ghoubach.youssef@gmail.com>
 EXPOSE 4200
 
 RUN npm install -g \
-    @angular/cli@1.2.6
+    @angular/cli@1.4.8
