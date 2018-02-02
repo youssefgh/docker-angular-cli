@@ -1,8 +1,8 @@
-FROM mooo.tech/nodejs-npm:6.10.3-r1
+FROM mooo.tech/nodejs-npm:8.9.3-r0
 
 MAINTAINER Youssef GHOUBACH <ghoubach.youssef@gmail.com>
 
 EXPOSE 4200
 
 RUN npm install -g \
-    @angular/cli@1.4.8
+    @angular/cli@1.6.5
