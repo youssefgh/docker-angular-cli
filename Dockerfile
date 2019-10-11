@@ -1,4 +1,4 @@
-FROM mooo.tech/nodejs-npm:10.14.2-r0
+FROM docker.pkg.github.com/youssefgh/docker-nodejs-npm/nodejs-npm:10.14.2-r0
 
 MAINTAINER Youssef GHOUBACH <ghoubach.youssef@gmail.com>
 
