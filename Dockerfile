@@ -5,4 +5,4 @@ LABEL maintainer="ghoubach.youssef@gmail.com"
 EXPOSE 4200
 
 RUN npm install -g \
-    @angular/cli@12.1.1
+    @angular/cli@14.2.1
