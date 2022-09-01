@@ -1,4 +1,4 @@
-FROM docker.pkg.github.com/youssefgh/docker-nodejs-npm/nodejs-npm:12.18.3-r0
+FROM docker.pkg.github.com/youssefgh/docker-nodejs-npm/nodejs-npm:16.16.0-r0
 
 LABEL maintainer="ghoubach.youssef@gmail.com"
 
